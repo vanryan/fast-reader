@@ -1,0 +1,11 @@
+For years, Japan implemented an aggressively dovish monetary policy stance.
+Bank of Japan rates were effectively pinned at 0% for decades.
+Large-scale QE was standard practice, and a few years ago the BoJ switched to Yield Curve Control (YCC).
+
+This was necessary as relentless QE purchases had led the BoJ to own >50% of the Japanese government bond market, and buying more bonds would seriously alter the functioning of the market. For days, there were basically no trades happening in the JGB market.
+
+So to keep 10-year yields low, the Bank of Japan moved from targeting a quantity of bonds to buy (QE) to a qualitative measure (YCC).
+
+It was a successful move: the charts below show how predictable the BoJ monetary policy was - front-end rates stuck at 0% for decades, and 10y JGBs constantly trading in the prescribed +/- 25 bps yield range for 6+ years.
+
+Until today.
